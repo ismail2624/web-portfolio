@@ -17,3 +17,10 @@ h1{
 .half-width img{
     width: 100%;
 }
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(40deg, lightSalmon, tomato);
+    color: black;
+    padding: 10px 15px;
+    font-weight: 700;
+}
