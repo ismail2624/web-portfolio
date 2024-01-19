@@ -1,0 +1,10 @@
+body{
+    font-family: 'Roboto', sans-serif;
+font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+.name-highlight{
+    color: rgba(123, 23, 10, 0.573);
+}
