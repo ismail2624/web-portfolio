@@ -1,19 +1,23 @@
 body{
+    margin: 0;
     font-family: 'Roboto', sans-serif;
 font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 h1{
     font-size: 40px;
 }
+p{
+    color: dimgray;
+}
 .name-highlight{
     color: rgba(123, 23, 10, 0.573);
 } 
 .half-width{
-    width: 40%;
+   width: 40%;
     float: left;
     margin-left: 60px;
     padding-left: 10px;
-}
+} 
 .half-width img{
     width: 100%;
 }
@@ -24,3 +28,6 @@ h1{
     padding: 10px 15px;
     font-weight: 700;
 }
+ .firstone{
+    background-color: blue;
+ }
