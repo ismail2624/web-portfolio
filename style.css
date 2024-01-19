@@ -7,4 +7,13 @@ h1{
 }
 .name-highlight{
     color: rgba(123, 23, 10, 0.573);
+} 
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 60px;
+    padding-left: 10px;
+}
+.half-width img{
+    width: 100%;
 }
