@@ -14,7 +14,7 @@ p{
     color: dimgray;
 }
 .orange-highlight{
-    color: rgba(123, 23, 10, 0.573);
+    color: orange;
 } 
 .half-width{
    width: 40%;
@@ -39,6 +39,20 @@ p{
     background-repeat: no-repeat;
     background-position: right;
 }
-  
+ /* #full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightSalmon, tomato);
+    border-image-slice: 1;
+ }
+   */
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 60%;
+    background-color: white;
+}
 
 
+h2{
+    font-size: 40px;
+}
